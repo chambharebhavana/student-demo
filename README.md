@@ -1,6 +1,6 @@
 # student-demo
 This is my first Git Repository.
 <br>
-Author- Bhavana chambhare
+Author- Bhavana (student)
 <br>
 This is first repository
